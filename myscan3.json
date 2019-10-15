@@ -1,0 +1,12 @@
+{
+   "application_logins":[
+      {
+         "password":"kQQctDE4ddnCtPhqBuEDM4z9",
+         "username":"raja"
+      }
+   ],
+   "name":"burp_iodine_demo",
+   "urls":[
+      "https://seed.com"
+   ]
+}
