@@ -7,6 +7,6 @@
    ],
    "name":"burp_demo",
    "urls":[
-      "http://seed.com/path/"
+      "https://seed.com/path/"
    ]
 }
