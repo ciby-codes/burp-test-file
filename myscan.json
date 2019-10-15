@@ -1,0 +1,12 @@
+{ 
+   "application_logins":[ 
+      { 
+         "password":"GR-2Aw+t23jxt4)_%28rwgkF883G[b83",
+         "username":"ciby"
+      }
+   ],
+   "name":"burp_test",
+   "urls":[ 
+      "http://seed.com/path/"
+   ]
+}
